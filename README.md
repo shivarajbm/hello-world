@@ -1,3 +1,3 @@
 # hello-world
 
-Hi this is Shivaraj. Here with updating readme with first feature included in hello world project.
+Hi this is Shivaraj. this is a sample project intended for learning.
