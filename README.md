@@ -1,2 +1,3 @@
 # hello-world
-hello world project
+
+Hi this is Shivaraj. Here with updating readme with first feature included in hello world project.
